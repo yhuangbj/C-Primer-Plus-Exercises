@@ -5,6 +5,7 @@ Solutions to exercises from the book [C Primer Plus](http://www.amazon.com/Prime
 
 #### Sections
 
+- [Chapter 2: Introduction C](ch02)
 - [Chapter 3: Data and C](ch03/)
 - [Chapter 4: Character Strings and Formatted Input/Output](ch04/)
 - [Chapter 5: Operators, Expressions and Statements](ch05/)
