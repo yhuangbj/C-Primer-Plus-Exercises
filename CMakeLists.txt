@@ -9,7 +9,7 @@ include_directories(ch17)
 
 
 
-add_executable(exercise2 ch03/exercise2.c)
+add_executable(exercise2 ch03/exercise3-2.c)
 set_target_properties(exercise2 PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/ch03/")
 add_executable(exercise1 ch02/exercise2-1.c)
 set_target_properties(exercise1 PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/ch02/")
