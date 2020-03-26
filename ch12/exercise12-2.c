@@ -18,7 +18,7 @@
 // compile with exercise02-b.c
 
 #include <stdio.h>
-#include "exercise02.h"
+#include "exercise12-2.h"
 
 int main(void)
 {

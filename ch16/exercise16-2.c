@@ -7,7 +7,7 @@
 // Write a simple program that tests the macro.
 
 #include <stdio.h>
-#include "exercise01.h"
+#include "exercise16-1.h"
 
 #define INVERSE(X) (1. / (X))
 #define HARM_MEAN(X, Y) (1. / ((INVERSE(X) + INVERSE(Y)) / 2))

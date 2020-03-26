@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-#include "exercise02.h"
+#include "exercise12-2.h"
 
 #define METRIC 0
 #define US 1

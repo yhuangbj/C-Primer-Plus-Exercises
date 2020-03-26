@@ -14,7 +14,7 @@
 // compile with exercise07-b.c
 
 #include <stdio.h>
-#include "exercise07.h"
+#include "exercise12-7.h"
 
 void clear_input_stream(void);
 

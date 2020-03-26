@@ -10,7 +10,7 @@
 // compile with exercise02-b.c
 
 #include <stdio.h>
-#include "exercise03.h"
+#include "exercise12-3.h"
 
 int main(void)
 {

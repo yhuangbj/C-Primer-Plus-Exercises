@@ -1,6 +1,6 @@
 // exercise07-b.c -- function definitions for exercise07.c
 
-#include "exercise07.h"
+#include "exercise12-7.h"
 #include <stdio.h>
 #include <stdlib.h>
 

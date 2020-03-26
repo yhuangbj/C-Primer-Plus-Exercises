@@ -15,7 +15,7 @@
 // compile with coordinates.c
 
 #include <stdio.h>
-#include "exercise01.h"
+#include "exercise16-1.h"
 #include "coordinates.h"
 
 int main()
